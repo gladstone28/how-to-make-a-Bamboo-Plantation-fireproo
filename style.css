@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#methodsList li {
+    margin-bottom: 10px;
+}
+
+#methodsList a {
+    text-decoration: none;
+    color: blue;
+}
+
+#details {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
