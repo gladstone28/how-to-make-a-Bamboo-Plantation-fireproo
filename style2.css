@@ -1,0 +1,80 @@
+/* General Body Styling */
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    /* Dark Grey for text */
+    background-color: #f5f5f5;
+    /* Light Beige background */
+}
+
+
+/* Navigation Bar Styling */
+
+.navbar {
+    background-color: #38761d;
+    /* Dark Green for primary color */
+    color: white;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar a:hover {
+    background-color: #274e13;
+    /* A darker shade of green for hover */
+}
+
+
+/* Footer Styling */
+
+.site-footer {
+    background-color: #38761d;
+    /* Dark Green, consistent with navbar */
+    color: white;
+}
+
+
+/* Headers Styling */
+
+h1,
+h2,
+h3 {
+    color: #6aa84f;
+    /* Lighter Green for headers */
+}
+
+
+/* Content Cards */
+
+.card {
+    border: 1px solid #a4c2f4;
+    /* Soft Blue for borders, if needed */
+}
+
+.card-header {
+    background-color: #a4c2f4;
+    /* Soft Blue for card headers */
+    color: white;
+}
+
+
+/* Links and Buttons */
+
+a,
+button {
+    color: #cc0000;
+    /* Earthy Red for attention */
+}
+
+a:hover {
+    color: #990000;
+    /* Darker Earthy Red for hover on links */
+}
+
+
+/* Adjustments for Specific Elements */
+
+
+/* Add specific CSS classes or IDs here based on your HTML structure */
